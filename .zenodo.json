@@ -1,0 +1,14 @@
+{
+  "title": "BD-AgriKG: A Knowledge Graph and Bilingual Text2Cypher Benchmark for Crop Suitability and Productivity in Bangladesh",
+  "upload_type": "dataset",
+  "description": "Knowledge graph of crop suitability and productivity in Bangladesh (BARC land suitability, BAMIS agro-meteorology, BBS crop calendar, SRDI soils and a 12-year district production panel from BBS yearbooks, on an OCHA COD-AB P-code spine), with the first English and Bangla execution-based Text2Cypher benchmark (460 questions, 26 templates), the evaluation harness and the per-item outputs of seven large language models. Companion release of the paper accepted at NORA 2026 (AACL-IJCNLP 2026). v1.0 is the data as evaluated; v1.1 adds the corrections of a post-review audit, listed in CHANGELOG.md. Code is MIT-licensed; derived data is CC BY 4.0.",
+  "creators": [
+    {"name": "Shuvo, Md. Aukerul Moin", "affiliation": "Rajshahi University of Engineering & Technology"},
+    {"name": "Mondal, Md. Nazrul Islam", "affiliation": "Rajshahi University of Engineering & Technology"}
+  ],
+  "keywords": ["knowledge graph", "Text2Cypher", "Bangla", "Bengali", "agriculture", "Bangladesh", "benchmark", "Neo4j", "large language models"],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "version": "1.1"
+}
