@@ -1,0 +1,66 @@
+crop,pest,conditions,source
+Wheat,Wheat Blast,Warm humid spell at heading in February and March,"Islam et al. 2016, BMC Biology"
+Wheat,Bipolaris Leaf Blight,Warm humid late season; worse in late-sown crops,Krishoker Janala (DAE)
+Wheat,Leaf Rust,Cool moist mornings with heavy dew,Krishoker Janala (DAE)
+Wheat,Loose Smut,Seed-borne; appears at heading from infected seed,Krishoker Janala (DAE)
+Wheat,Aphid,Dry warm spell from booting to grain filling,Krishoker Janala (DAE)
+Maize,Fall Armyworm,All seasons since 2018; worst at whorl stage,"Insects 2023; Krishoker Janala (DAE)"
+Maize,Stem Borer,Warm wet kharif; bores the base and whorl,Krishoker Janala (DAE)
+Maize,Cutworm,Cuts seedlings at night soon after emergence,Krishoker Janala (DAE)
+Maize,Leaf Blight,Hot humid weather with a dense canopy at later stages,Krishoker Janala (DAE)
+Maize,Aphid,Dry warm tasselling stage; sooty mould follows,Krishoker Janala (DAE)
+Potato,Late Blight,Cool cloudy foggy humid weather in December and January,Krishoker Janala (DAE)
+Potato,Early Blight,Warmer drier spells; older lower leaves first,Krishoker Janala (DAE)
+Potato,Bacterial Wilt,Warm waterlogged soil and infected seed tubers,Krishoker Janala (DAE)
+Potato,Common Scab,Dry alkaline soil during tuber initiation,Krishoker Janala (DAE)
+Potato,Aphid,Dry warm weather; transmits potato viruses,Krishoker Janala (DAE)
+Potato,Cutworm,Night feeding on young stems early in the crop,Krishoker Janala (DAE)
+Lentil,Stemphylium Blight,Cloudy humid warm weather at flowering in January and February,"Krishoker Janala (DAE); Sci. Reports 2025"
+Lentil,Rust,Cool humid weather near maturity,Sci. Reports 2025
+Lentil,Foot and Collar Rot,Wet heavy soil at seedling and adult stages,Krishoker Janala (DAE)
+Lentil,Aphid,Warm dry spell at flowering and podding,Sci. Reports 2025
+Lentil,Mosaic Virus,Aphid-spread; early-sown crops in a warm winter,Krishoker Janala (DAE)
+Onion,Purple Blotch,Warm humid weather with dew on bulb and seed crops,"Krishoker Janala (DAE); Ann. Bangladesh Agric."
+Onion,Stemphylium Blight,Humid late rabi; part of the purple blotch complex,Ann. Bangladesh Agric.
+Onion,Thrips,Dry warm weather; injury worsens purple blotch,Krishoker Janala (DAE)
+Onion,Neck and Bulb Rot,Poorly cured bulbs in humid storage after harvest,Krishoker Janala (DAE)
+Onion,Cutworm,Cuts transplanted seedlings at night,Krishoker Janala (DAE)
+Garlic,Purple Blotch,Warm humid weather on leaves and stalks,Krishoker Janala (DAE)
+Garlic,Downy Mildew,Cool moist foggy weather on older leaves,Krishoker Janala (DAE)
+Garlic,Thrips,Dry warm weather; sucks young leaves,Krishoker Janala (DAE)
+Garlic,Eriophyid Mite,Dry weather; also damages stored cloves,Krishoker Janala (DAE)
+Garlic,Rust,Cool humid late-season weather,Krishoker Janala (DAE)
+Sugarcane,Top Shoot Borer,April to August; dead heart in the grand growth phase,Krishoker Janala (DAE)
+Sugarcane,Early Shoot Borer,Hot dry March to May on young tillers,Krishoker Janala (DAE)
+Sugarcane,Stalk Borer,Monsoon months; bores internodes of grown cane,Krishoker Janala (DAE)
+Sugarcane,Red Rot,Waterlogging and wounding; worst after flood in August to October,"Krishoker Janala (DAE); Plant Pathol. J. 2021"
+Sugarcane,Whip Smut,Dry weather in ratoon crops from infected setts,Krishoker Janala (DAE)
+Sugarcane,Mealybug,Dry weather under the leaf sheath of mature cane,Krishoker Janala (DAE)
+Chili,Anthracnose,Warm wet weather at flowering and fruiting,Krishoker Janala (DAE)
+Chili,Leaf Curl Virus,Hot dry weather; spread by whitefly and thrips,Krishoker Janala (DAE)
+Chili,Thrips,Dry hot weather; causes upward leaf curl,Krishoker Janala (DAE)
+Chili,Broad Mite,Warm humid weather; causes downward leaf curl,Krishoker Janala (DAE)
+Chili,Fruit Borer,Fruiting stage in warm weather,Krishoker Janala (DAE)
+Chili,Wilt,Warm waterlogged soil with poor drainage,Krishoker Janala (DAE)
+Groundnut,Tikka Leaf Spot,Warm humid weather from 40 days after sowing,Krishoker Janala (DAE)
+Groundnut,Rust,Humid late season on older plants,Krishoker Janala (DAE)
+Groundnut,Hairy Caterpillar,Early rains; skeletonises leaves in patches,Krishoker Janala (DAE)
+Groundnut,Leaf Miner,Dry warm weather at the vegetative stage,Krishoker Janala (DAE)
+Groundnut,Thrips,Dry spells; sap sucking and leaf curling,Krishoker Janala (DAE)
+Groundnut,Termite,Dry light soils; attacks roots and pods,Krishoker Janala (DAE)
+Mustard,Alternaria Leaf Blight,Cool foggy humid weather 40 to 45 days after sowing,Krishoker Janala (DAE)
+Mustard,Aphid,Warm dry spell at flowering and siliqua in December and January,Krishoker Janala (DAE)
+Mustard,Sclerotinia Stem Rot,Dense crop with high humidity in cool weather,Krishoker Janala (DAE)
+Mustard,Hairy Caterpillar,Seedling to vegetative stage; patchy attack,Krishoker Janala (DAE)
+Mustard,Mustard Sawfly,Cool early winter at the seedling stage,Krishoker Janala (DAE)
+Mung,Yellow Mosaic,Whitefly-spread; hot dry kharif-1 crop,"Krishoker Janala (DAE); Front. Plant Sci. 2019"
+Mung,Cercospora Leaf Spot,Warm humid monsoon weather,Krishoker Janala (DAE)
+Mung,Powdery Mildew,Dry cloudy weather late in the crop,Krishoker Janala (DAE)
+Mung,Pod Borer,Flowering to podding stage,Krishoker Janala (DAE)
+Mung,Hairy Caterpillar,Early rains; feeds on leaf undersides,Krishoker Janala (DAE)
+Mung,Foot and Root Rot,Waterlogged soil at seedling and adult stages,Krishoker Janala (DAE)
+Gram,Botrytis Grey Mould,Dense canopy in cool cloudy humid weather at flowering,"Krishoker Janala (DAE); ICRISAT"
+Gram,Fusarium Wilt,Warm dry soil at seedling and flowering stages,ICRISAT
+Gram,Collar and Root Rot,Moist soil with crop residue at the seedling stage,Krishoker Janala (DAE)
+Gram,Pod Borer,Flowering to podding in January and February,Krishoker Janala (DAE)
+Gram,Tobacco Caterpillar,Vegetative stage in warm weather,Krishoker Janala (DAE)

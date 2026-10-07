@@ -1,0 +1,222 @@
+== 2016: 1984 rows, 16 crops, years ['2013-14', '2014-15']
+   ! 2016: table not found for Boro
+   ! 2016/Aus: only 7 division rows detected, division checks skipped
+   ! 2016/Aman: only 7 division rows detected, division checks skipped
+   ! 2016/Boro/Local: only 7 division rows detected, division checks skipped
+   ! 2016/Boro/HYV: only 7 division rows detected, division checks skipped
+   ! 2016/Boro/Hybrid: only 7 division rows detected, division checks skipped
+   ! 2016/Wheat: only 7 division rows detected, division checks skipped
+   ! 2016/Wheat: national row not found
+   ! 2016/Maize: only 7 division rows detected, division checks skipped
+   ! 2016/Gram: only 7 division rows detected, division checks skipped
+   ! 2016/Lentil: only 7 division rows detected, division checks skipped
+   ! 2016/Mung: only 7 division rows detected, division checks skipped
+   ! 2016/Mustard: only 7 division rows detected, division checks skipped
+   ! 2016/Groundnut: only 7 division rows detected, division checks skipped
+   ! 2016/Groundnut col2: districts 49693 vs national 56039 (-11.3%) [MISMATCH]
+   ! 2016/Chili/Kharif: only 7 division rows detected, division checks skipped
+   ! 2016/Chili/Robi: only 7 division rows detected, division checks skipped
+   ! 2016/Onion: only 7 division rows detected, division checks skipped
+   ! 2016/Garlic: only 7 division rows detected, division checks skipped
+   ! 2016/Sugarcane: only 7 division rows detected, division checks skipped
+   ! 2016/Jute: production in bales, converted at 181.44 kg/bale
+   ! 2016/Jute: only 7 division rows detected, division checks skipped
+   ! 2016/Potato: only 7 division rows detected, division checks skipped
+== 2017: 2172 rows, 14 crops, years ['2013-14', '2014-15', '2015-16']
+   ! 2017: table not found for Mustard
+   ! 2017: table not found for Boro/Local
+   ! 2017: table not found for Boro/HYV
+   ! 2017: table not found for Boro
+   ! 2017: table not found for Boro/Hybrid
+   ! 2017/Aus: only 4 division rows detected, division checks skipped
+   ! 2017/Aus col0: districts 1511363 vs national 2583303 (-41.5%) [MISMATCH]
+   ! 2017/Aus col1: districts 611614 vs national 1045406 (-41.5%) [MISMATCH]
+   ! 2017/Aus col4: districts 1362165 vs national 2328090 (-41.5%) [MISMATCH]
+   ! 2017/Aus col5: districts 1477917 vs national 2515503 (-41.2%) [MISMATCH]
+   ! 2017/Aus col6: districts 598079 vs national 1017969 (-41.2%) [MISMATCH]
+   ! 2017/Aus col9: districts 1349614 vs national 2288642 (-41.0%) [MISMATCH]
+   ! 2017/Aus: 32 district rows (expect 64)
+   ! 2017/Aman: only 7 division rows detected, division checks skipped
+   ! 2017/Maize: only 7 division rows detected, division checks skipped
+   ! 2017/Gram: only 7 division rows detected, division checks skipped
+   ! 2017/Lentil: only 7 division rows detected, division checks skipped
+   ! 2017/Mung: only 7 division rows detected, division checks skipped
+   ! 2017/Groundnut: only 7 division rows detected, division checks skipped
+   ! 2017/Groundnut col1: districts 49693 vs national 56039 (-11.3%) [MISMATCH]
+   ! 2017/Chili/Kharif: only 7 division rows detected, division checks skipped
+   ! 2017/Chili/Robi: only 7 division rows detected, division checks skipped
+   ! 2017/Onion: only 7 division rows detected, division checks skipped
+   ! 2017/Garlic: only 7 division rows detected, division checks skipped
+   ! 2017/Sugarcane: only 7 division rows detected, division checks skipped
+   ! 2017/Jute: production in bales, converted at 181.44 kg/bale
+   ! 2017/Jute: only 7 division rows detected, division checks skipped
+   ! 2017/Jute: 62 district rows (expect 64)
+== 2018: 2298 rows, 14 crops, years ['2014-15', '2015-16', '2016-17']
+   ! 2018: table not found for Mustard
+   ! 2018: table not found for Boro/Local
+   ! 2018: table not found for Boro/HYV
+   ! 2018: table not found for Boro
+   ! 2018: table not found for Boro/Hybrid
+   ! 2018/Aus: only 4 division rows detected, division checks skipped
+   ! 2018/Aus col0: districts 1477917 vs national 2515503 (-41.2%) [MISMATCH]
+   ! 2018/Aus col1: districts 598079 vs national 1017969 (-41.2%) [MISMATCH]
+   ! 2018/Aus col4: districts 1349614 vs national 2288642 (-41.0%) [MISMATCH]
+   ! 2018/Aus col5: districts 1313915 vs national 2326988 (-43.5%) [MISMATCH]
+   ! 2018/Aus col6: districts 531716 vs national 941681 (-43.5%) [MISMATCH]
+   ! 2018/Aus col9: districts 1217153 vs national 2133617 (-43.0%) [MISMATCH]
+   ! 2018/Aus: 32 district rows (expect 64)
+   ! 2018/Gram Sylhet col0: districts 0.0 vs subtotal 2.0
+   ! 2018/Groundnut Rajshahi col1: districts 3677.0 vs subtotal 2758.0
+   ! 2018/Jute: production in bales, converted at 181.44 kg/bale
+   ! 2018/Jute: 61 district rows (expect 64)
+== 2019: 1849 rows, 12 crops, years ['2015-16', '2016-17', '2017-18']
+   ! 2019: table not found for Mustard
+   ! 2019: table not found for Boro/Local
+   ! 2019: table not found for Sugarcane
+   ! 2019: table not found for Boro/HYV
+   ! 2019: table not found for Boro
+   ! 2019: table not found for Boro/Hybrid
+   ! 2019: table not found for Garlic
+   ! 2019/Aus: only 5 division rows detected, division checks skipped
+   ! 2019/Aus col0: districts 1125686 vs national 2326988 (-51.6%) [MISMATCH]
+   ! 2019/Aus col1: districts 455541 vs national 941681 (-51.6%) [MISMATCH]
+   ! 2019/Aus col4: districts 1147262 vs national 2133617 (-46.2%) [MISMATCH]
+   ! 2019/Aus col5: districts 1363459 vs national 2656583 (-48.7%) [MISMATCH]
+   ! 2019/Aus col6: districts 551762 vs national 1075061 (-48.7%) [MISMATCH]
+   ! 2019/Aus col9: districts 1473061 vs national 2709643 (-45.6%) [MISMATCH]
+   ! 2019/Aus: 32 district rows (expect 64)
+   ! 2019/Aman: unknown district 'Cox' Bazar'
+   ! 2019/Wheat: unknown district 'Cox' Bazar'
+   ! 2019/Jute: row number 5 after 38 ('Narail') - check for a subtotal leak
+   ! 2019/Jute: production in bales, converted at 181.44 kg/bale
+   ! 2019/Jute: unknown district 'Cox' Bazar'
+   ! 2019/Potato: unknown district 'Cox' Bazar'
+== 2020: 2359 rows, 15 crops, years ['2016-17', '2017-18', '2018-19']
+   ! 2020: table not found for Mustard
+   ! 2020: table not found for Boro/Local
+   ! 2020: table not found for Boro/Hybrid
+   ! 2020: table not found for Boro/HYV
+   ! 2020/Aus: only 5 division rows detected, division checks skipped
+   ! 2020/Aus col0: districts 1363459 vs national 2656583 (-48.7%) [MISMATCH]
+   ! 2020/Aus col1: districts 551762 vs national 1075061 (-48.7%) [MISMATCH]
+   ! 2020/Aus col4: districts 1473061 vs national 2709643 (-45.6%) [MISMATCH]
+   ! 2020/Aus col5: districts 1396688 vs national 2731376 (-48.9%) [MISMATCH]
+   ! 2020/Aus col6: districts 565209 vs national 1105328 (-48.9%) [MISMATCH]
+   ! 2020/Aus col9: districts 1522184 vs national 2775478 (-45.2%) [MISMATCH]
+   ! 2020/Aus: 32 district rows (expect 64)
+   ! 2020/Aman: unknown district 'Cox' Bazar'
+   ! 2020/Boro: unknown district 'Cox' Bazar'
+   ! 2020/Wheat: unknown district 'Cox' Bazar'
+   ! 2020/Jute: row number 5 after 38 ('Narail') - check for a subtotal leak
+   ! 2020/Jute: production in bales, converted at 181.44 kg/bale
+   ! 2020/Jute: unknown district 'Cox' Bazar'
+   ! 2020/Potato col5: districts 1129196 vs national 1157402 (-2.4%) [source misprint in national row, divisions agree]
+   ! 2020/Potato col6: districts 456958 vs national 468375 (-2.4%) [source misprint in national row, divisions agree]
+   ! 2020/Potato: unknown district 'Cox' Bazar'
+== 2021: 2686 rows, 16 crops, years ['2017-18', '2018-19', '2019-20']
+   ! 2021: table not found for Boro/Local
+   ! 2021: table not found for Boro/Hybrid
+   ! 2021: table not found for Boro/HYV
+   ! 2021/Wheat: 63 district rows (expect 64)
+   ! 2021/Gram Mymensingh Division col5: districts 105.0 vs subtotal 150.0
+   ! 2021/Chili/Kharif Rajshahi Division col4: districts 11665.0 vs subtotal 12756.0
+   ! 2021/Chili/Kharif col4: districts 47276 vs national 48367 (-2.3%) [MISMATCH]
+   ! 2021/Chili/Kharif: 63 district rows (expect 64)
+   ! 2021/Chili/Robi Khulna Division col5: districts 8697.0 vs subtotal 824.0
+   ! 2021/Chili/Robi Mymensingh Division col5: districts 17743.0 vs subtotal 1717.0
+   ! 2021/Chili/Robi Rajshahi Division col5: districts 26693.0 vs subtotal 5548.0
+   ! 2021/Chili/Robi Rangpur Division col5: districts 35610.0 vs subtotal 15983.0
+   ! 2021/Chili/Robi col5: districts 143850 vs national 111963 (+28.5%) [MISMATCH]
+   ! 2021/Potato col0: districts 1130773 vs national 1157402 (-2.3%) [source misprint in national row, divisions agree]
+   ! 2021/Potato col1: districts 457596 vs national 468375 (-2.3%) [source misprint in national row, divisions agree]
+== 2022: 2623 rows, 16 crops, years ['2019-20', '2020-21', '2021-22']
+   ! 2022: table not found for Chili/Robi
+   ! 2022: table not found for Boro/Local
+   ! 2022: table not found for Boro/Hybrid
+   ! 2022: table not found for Boro/HYV
+   ! 2022/Aman Chattogram Division col0: districts 2065915.0 vs subtotal 206515.0
+   ! 2022/Wheat Khulna Division col5: districts 50450.0 vs subtotal 84451.0
+   ! 2022/Wheat Khulna Division col6: districts 38594.0 vs subtotal 34190.0
+   ! 2022/Wheat Khulna Division col9: districts 126548.9 vs subtotal 135165.0
+   ! 2022/Wheat Rangpur Division col5: districts 118195.0 vs subtotal 219762.0
+   ! 2022/Wheat Rangpur Division col6: districts 88973.0 vs subtotal 21976.0
+   ! 2022/Wheat Rangpur Division col9: districts 318897.0 vs subtotal 3.6
+   ! 2022/Wheat col5: districts 642152 vs national 77771 (+725.7%) [MISMATCH]
+   ! 2022/Groundnut Chattogram Division col2: districts 18261.8 vs subtotal 17276.0
+   ! 2022/Groundnut Rajshahi Division col2: districts 7909.8 vs subtotal 7440.8
+   ! 2022/Chili/Kharif Rajshahi Division col0: districts 11665.0 vs subtotal 12756.0
+   ! 2022/Chili/Kharif col0: districts 47276 vs national 48367 (-2.3%) [MISMATCH]
+   ! 2022/Jute: production in bales, converted at 181.44 kg/bale
+   ! 2022/Jute Barishal Division col0: districts 33909.0 vs subtotal 34809.0
+   ! 2022/Jute Barishal Division col1: districts 13722.0 vs subtotal 14086.0
+   ! 2022/Jute Barishal Division col4: districts 81721.0 vs subtotal 83800.0
+   ! 2022/Jute Khulna Division col5: districts 498305.0 vs subtotal 32045.0
+   ! 2022/Jute Khulna Division col6: districts 204141.0 vs subtotal 12968.0
+   ! 2022/Jute Khulna Division col9: districts 2650950.0 vs subtotal 92931.0
+   ! 2022/Jute: 63 district rows (expect 64)
+   ! 2022/Potato Barishal Division col5: districts 141580.0 vs subtotal 21580.0
+   ! 2022/Potato Rajshahi Division col1: districts 162256.0 vs subtotal 16225.0
+   ! 2022/Potato Rangpur Division col1: districts 177603.0 vs subtotal 17760.0
+   ! 2022/Potato col0: districts 1158155 vs national 115815 (+900.0%) [MISMATCH]
+   ! 2022/Potato col1: districts 468678 vs national 46868 (+900.0%) [MISMATCH]
+   ! 2022/Potato col5: districts 1266574 vs national 114657 (+1004.7%) [MISMATCH]
+== 2023: 2686 rows, 16 crops, years ['2020-21', '2021-22', '2022-23']
+   ! 2023: table not found for Chili/Robi
+   ! 2023: table not found for Boro/Local
+   ! 2023: table not found for Boro/Hybrid
+   ! 2023: table not found for Boro/HYV
+   ! 2023/Wheat: only 0 division rows detected, division checks skipped
+   ! 2023/Wheat col0: districts 777720 vs national 1085834 (-28.4%) [MISMATCH]
+   ! 2023/Maize Khulna Division col5: districts 825371.6 vs subtotal 942293.6
+   ! 2023/Maize Sylhet Division col4: districts 396.4 vs subtotal 369.4
+   ! 2023/Maize col5: districts 4445585 vs national 4592508 (-3.2%) [MISMATCH]
+   ! 2023/Mung col4: districts 112710 vs national 11210 (+905.5%) [source misprint in national row, divisions agree]
+   ! 2023/Groundnut Chattogram Division col0: districts 18261.8 vs subtotal 17276.0
+   ! 2023/Groundnut Rajshahi Division col0: districts 7909.8 vs subtotal 7440.8
+   ! 2023/Jute: production in bales, converted at 181.44 kg/bale
+   ! 2023/Jute Khulna Division col0: districts 498305.0 vs subtotal 32045.0
+   ! 2023/Jute Khulna Division col1: districts 204141.0 vs subtotal 12968.0
+   ! 2023/Jute Khulna Division col4: districts 2650950.0 vs subtotal 92931.0
+   ! 2023/Jute: 63 district rows (expect 64)
+   ! 2023/Potato: only 0 division rows detected, division checks skipped
+   ! 2023/Potato col0: districts 1266574 vs national 1146572 (+10.5%) [MISMATCH]
+== 2024: 2688 rows, 16 crops, years ['2021-22', '2022-23', '2023-24']
+   ! 2024: table not found for Boro/Local
+   ! 2024: table not found for Boro/Hybrid
+   ! 2024: table not found for Boro/HYV
+   ! 2024/Boro Sylhet col5: districts 1169727.0 vs subtotal 1.2
+   ! 2024/Maize Khulna col5: districts 825371.6 vs subtotal 942293.6
+   ! 2024/Maize Sylhet col4: districts 396.4 vs subtotal 369.4
+   ! 2024/Maize col5: districts 4445585 vs national 4592508 (-3.2%) [MISMATCH]
+   ! 2024/Gram Khulna col4: districts 908.1 vs subtotal 972.3
+   ! 2024/Gram Khulna col5: districts 392.0 vs subtotal 762.6
+   ! 2024/Gram col5: districts 4677 vs national 5048 (-7.3%) [MISMATCH]
+   ! 2024/Mung col2: districts 112710 vs national 11210 (+905.5%) [source misprint in national row, divisions agree]
+   ! 2024/Chili/Kharif col4: districts 55214 vs national 53161 (+3.9%) [source misprint in national row, divisions agree]
+   ! 2024/Jute: production in bales, converted at 181.44 kg/bale
+== 2025: 2686 rows, 16 crops, years ['2022-23', '2023-24', '2024-25']
+   ! 2025: table not found for Boro/Local
+   ! 2025: table not found for Boro/Hybrid
+   ! 2025: table not found for Boro/HYV
+   ! 2025/Boro Sylhet col0: districts 1169727.0 vs subtotal 1.2
+   ! 2025/Wheat Dhaka col1: districts 58223.2 vs subtotal 125155.0
+   ! 2025/Wheat Dhaka col4: districts 161407.4 vs subtotal 3.5
+   ! 2025/Wheat Dhaka col5: districts 127629.0 vs subtotal 178818.0
+   ! 2025/Wheat Dhaka col6: districts 57610.0 vs subtotal 123220.0
+   ! 2025/Wheat Dhaka col9: districts 139055.6 vs subtotal 3.1
+   ! 2025/Wheat col1: districts 319126 vs national 311551 (+2.4%) [MISMATCH]
+   ! 2025/Wheat col6: districts 288492 vs national 280746 (+2.8%) [MISMATCH]
+   ! 2025/Maize Khulna col3: districts 825371.6 vs subtotal 942293.6
+   ! 2025/Maize Sylhet col2: districts 396.4 vs subtotal 369.4
+   ! 2025/Maize Sylhet col3: districts 158.9 vs subtotal 1308.9
+   ! 2025/Maize col3: districts 4444655 vs national 4875919 (-8.8%) [MISMATCH]
+   ! 2025/Gram Khulna col2: districts 908.1 vs subtotal 972.3
+   ! 2025/Gram Khulna col3: districts 392.0 vs subtotal 762.6
+   ! 2025/Gram col3: districts 4677 vs national 5048 (-7.3%) [MISMATCH]
+   ! 2025/Mung col0: districts 112710 vs national 11210 (+905.5%) [source misprint in national row, divisions agree]
+   ! 2025/Chili/Kharif Chattogram col3: districts 3136.0 vs subtotal 3305.6
+   ! 2025/Chili/Kharif col2: districts 55214 vs national 53161 (+3.9%) [MISMATCH]
+   ! 2025/Sugarcane col0: districts 172290 vs national 178561 (-3.5%) [source misprint in national row, divisions agree]
+   ! 2025/Sugarcane col1: districts 2982547 vs national 3087428 (-3.4%) [source misprint in national row, divisions agree]
+   ! 2025/Jute: production in bales, converted at 181.44 kg/bale
+   ! 2025/Jute: 63 district rows (expect 64)

@@ -1,0 +1,27 @@
+\begin{table*}[t]
+\centering\scriptsize
+\setlength{\tabcolsep}{2.6pt}
+\begin{tabular}{l r c rr rr c rr r r}
+\toprule
+& & & \multicolumn{2}{c}{bootstrap $p$} & \multicolumn{2}{c}{sign-flip $p$} & templates & \multicolumn{2}{c}{sign test $p$} & top-2 & gap w/o \\
+Model & gap & 95\% CI & raw & Holm & raw & Holm & EN$>$BN / BN$>$EN / tie & raw & Holm & share & top-2 \\
+\midrule
+Opus 5 & +4.3 & $[0.2, 10.0]$ & 0.044 & 0.132 & 0.126 & 0.496 & 5 / 1 / 20 & 0.219 & 0.474 & 85\% & +0.7 \\
+Sonnet 5 & +10.4 & $[0.9, 21.6]$ & 0.023 & 0.092 & 0.124 & 0.496 & 4 / 0 / 22 & 0.125 & 0.474 & 67\% & +3.8 \\
+DeepSeek-R1 & +6.7 & $[1.9, 11.7]$ & 0.006 & 0.030 & 0.019 & 0.113 & 13 / 3 / 10 & 0.021 & 0.128 & 39\% & +4.5 \\
+Pixtral Large & +13.7 & $[4.7, 21.1]$ & 0.005 & 0.030 & 0.005 & 0.034 & 21 / 2 / 3 & 0.000 & 0.000 & 29\% & +10.6 \\
+Haiku 4.5 & +3.9 & $[-1.9, 10.5]$ & 0.215 & 0.430 & 0.291 & 0.582 & 11 / 4 / 11 & 0.118 & 0.474 & 89\% & +0.5 \\
+Llama 3.3 70B & +5.2 & $[0.7, 13.4]$ & 0.000 & 0.000 & 0.031 & 0.157 & 6 / 0 / 20 & 0.031 & 0.156 & 83\% & +0.9 \\
+Llama 3.1 8B & +0.9 & $[-0.9, 3.7]$ & 0.717 & 0.717 & 1.000 & 1.000 & 1 / 2 / 23 & 1.000 & 1.000 & 150\% & -0.5 \\
+\bottomrule
+\end{tabular}
+\caption{Tests of the EN--BN strict gap per model (points). The
+interval and $p$ are the paper's template-clustered percentile
+bootstrap; the sign-flip test permutes the sign of each template's
+paired difference; the sign test counts templates by the direction
+of their difference; Holm corrects each across the seven models.
+The last two columns give the share of the gap carried by its two
+largest templates and the gap recomputed without them. Three gaps
+survive Holm under the bootstrap, one under the permutation test.}
+\label{tab:gaptests}
+\end{table*}

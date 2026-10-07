@@ -1,0 +1,57 @@
+district,upazila,reason
+BARISAL,Barisal,no-upazila-match
+JHALAKATI,Jhalakati,district-not-found
+JHALAKATI,Kathalia,district-not-found
+JHALAKATI,Nalchiti,district-not-found
+JHALAKATI,Rajapur,district-not-found
+PIROJPUR,Sarupkati,no-upazila-match
+NETRAKONA,Purbadhala,district-not-found
+KHULNA,Khulna Metro,no-upazila-match
+MAGURA,Sripur,no-upazila-match
+BOGRA,Kahalu,no-upazila-match
+PANCHAGARH,Panchagar,no-upazila-match
+MOULVI BAZAR,Kamalganj,district-not-found
+MOULVI BAZAR,Srimangal,district-not-found
+BARGUNA,Borguna,no-upazila-match
+CHANDPUR,Matlab,no-upazila-match
+COMILLA,Comilla,no-upazila-match
+LAKSHMIPUR,Laksmipur,no-upazila-match
+MYMENSINGH,Phulpur,no-upazila-match
+NETRAKONA,Atpara,district-not-found
+NETRAKONA,Barhatta,district-not-found
+NETRAKONA,Durgapur,district-not-found
+NETRAKONA,Kendua,district-not-found
+NETRAKONA,Netrakona,district-not-found
+SHARIATPUR,Palong (Sadar),no-upazila-match
+SHARIATPUR,Janjira,no-upazila-match
+BOGRA,Bogra,no-upazila-match
+KURIGRAM,Rajibpur (Dhushmara),no-upazila-match
+NATOR,Bagatipara,district-not-found
+MOULVI BAZAR,Moulvi Bazar,district-not-found
+JESSORE,Jessore,no-upazila-match
+NATOR,Lalpur,district-not-found
+MOULVI BAZAR,Kulaura,district-not-found
+CHITTAGONG,Patenga,no-upazila-match
+CHITTAGONG,Double Mooring,no-upazila-match
+CHITTAGONG,Panchlais,no-upazila-match
+RANGAMATI,Kawkhali (Betbunia),no-upazila-match
+DHAKA,Dhaka Metro,no-upazila-match
+GAZIPUR,Sripur,no-upazila-match
+NETRAKONA,Khaliajuri,district-not-found
+NETRAKONA,Kalmakanda,district-not-found
+NETRAKONA,Madan,district-not-found
+NETRAKONA,Mohanganj,district-not-found
+KHULNA,Dighalia (Daulathpur),no-upazila-match
+NATOR,Baraigram,district-not-found
+NATOR,Gurudashpur,district-not-found
+NATOR,Nator,district-not-found
+NATOR,Shingra,district-not-found
+NAWABGANJ,Bholahat,district-not-found
+NAWABGANJ,Gomastapur,district-not-found
+NAWABGANJ,Nachol,district-not-found
+NAWABGANJ,Nawabganj,district-not-found
+NAWABGANJ,Shibganj,district-not-found
+RAJSHAHI,Boalia (Rajshahi),no-upazila-match
+MOULVI BAZAR,Barlekha,district-not-found
+MOULVI BAZAR,Rajnagar,district-not-found
+SUNAMGANJ,Sulla,no-upazila-match

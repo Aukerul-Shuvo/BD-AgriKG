@@ -1,0 +1,1 @@
+{"id": "sowing_time-008", "retried": true, "cypher": "MATCH (c:Crop {name: 'Onion'}) RETURN c.sowing_time AS answer", "category": "lookup", "valid": true, "ok": true}

@@ -1,0 +1,28 @@
+Node labels and properties:
+- Division {pcode, name}
+- District {pcode, name}
+- Upazila {pcode, name, area_sqkm, center_lat, center_lon}
+- Crop {name, sowing_time, harvest_time, seed_requirement_per_acre,
+        favourable_temperature, favourable_humidity,
+        favourable_soil_temperature, photo_period, favourable_rainfall,
+        water_requirement}
+- SoilType {name}
+- PestDisease {name}
+
+Relationships:
+- (Upazila)-[:IN_DISTRICT]->(District)
+- (District)-[:IN_DIVISION]->(Division)
+- (Crop)-[:SUITABLE_IN {very_suitable, suitable, moderately_suitable,
+   marginally_suitable, not_suitable, total_area, zone, suitability_factor}]
+  ->(Upazila)   // BARC land-suitability areas in hectares; factor 0..1
+- (Upazila)-[:HAS_SOIL {characteristics}]->(SoilType)
+- (Crop)-[:AFFECTED_BY {conditions}]->(PestDisease)
+- (Crop)-[:PRODUCED_IN {crop_year, area_acres, production_mt,
+   yield_mt_per_ha, source, quality_flag}]->(District)
+  // BBS district production; crop_year like '2023-24', 2013-14..2024-25
+
+The 16 crops: Aus, Aman, Boro, Wheat, Maize, Potato, Lentil, Mung, Gram,
+Mustard, Groundnut, Chili, Onion, Garlic, Sugarcane, Jute.
+District names use current spellings (Bogura, Chattogram, Jashore,
+Chapainababganj, Barishal, Cumilla, ...).
+A crop is called "highly suitable" in a place when suitability_factor > 0.7.
