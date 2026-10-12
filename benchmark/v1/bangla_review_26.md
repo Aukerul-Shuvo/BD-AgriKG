@@ -59,7 +59,7 @@ BN: চীনাবাদাম চাষে পানির চাহিদা 
 EN: What is the water requirement of Lentil?
 BN: মসুর চাষে পানির চাহিদা কেমন?
 
-Fluency (1-3): 2 Adequacy (yes / no + what differs):  no
+Fluency (1-3): 2 Adequacy (yes / no + what differs):  yes (first written as "no"; the rater confirmed on 13 Oct 2026 that the meaning is the same and only the phrasing could be more natural)
 
 Correction: pani kemon lage dite paro panir chahidar jaygay
 
