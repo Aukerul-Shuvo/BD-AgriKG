@@ -1,0 +1,60 @@
+cff-version: 1.2.0
+message: "If you use the graph, the production panel or the benchmark, please cite the paper below."
+title: "BD-AgriKG: knowledge graph and bilingual Text2Cypher benchmark"
+type: dataset
+version: "1.1"
+date-released: 2026-10-07
+doi: 10.5281/zenodo.23203982
+repository-code: "https://github.com/Aukerul-Shuvo/BD-AgriKG"
+license:
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - knowledge graph
+  - Text2Cypher
+  - Bangla
+  - agriculture
+  - Bangladesh
+  - benchmark
+authors:
+  - family-names: Shuvo
+    given-names: Md. Aukerul Moin
+    orcid: "https://orcid.org/0000-0002-8619-3581"
+    affiliation: Rajshahi University of Engineering & Technology
+  - family-names: Mondal
+    given-names: Md Nazrul Islam
+    affiliation: Rajshahi University of Engineering & Technology
+preferred-citation:
+  type: conference-paper
+  title: "BD-AgriKG: A Knowledge Graph and Bilingual Text2Cypher Benchmark for Crop Suitability and Productivity in Bangladesh"
+  authors:
+    - family-names: Shuvo
+      given-names: Md. Aukerul Moin
+      orcid: "https://orcid.org/0000-0002-8619-3581"
+    - family-names: Mondal
+      given-names: Md Nazrul Islam
+  editors:
+    - family-names: Er-Rahmadi
+      given-names: Btissam
+    - family-names: Montella
+      given-names: Sébastien
+    - family-names: Graux
+      given-names: Damien
+    - family-names: Melo
+      given-names: André
+    - family-names: Jabeen
+      given-names: Hajira
+  collection-title: "Proceedings of the 3rd Workshop on KNOwledge GRaphs Agentic Systems Interplay (NORA 2026)"
+  collection-type: proceedings
+  conference:
+    name: "NORA 2026, co-located with AACL-IJCNLP 2026"
+    city: Hengqin
+    country: CN
+  publisher:
+    name: Association for Computational Linguistics
+  year: 2026
+  month: 11
+  start: 63
+  end: 76
+  isbn: "979-8-89176-457-6"
+  url: "https://aclanthology.org/2026.nora-1.6/"

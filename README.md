@@ -4,12 +4,16 @@ A knowledge graph of crop suitability and productivity in Bangladesh, and
 the first English and Bangla execution-based Text2Cypher benchmark built on
 it. Companion release of the paper
 
-> Md. Aukerul Moin Shuvo and Md. Nazrul Islam Mondal. 2026. BD-AgriKG: A
-> Knowledge Graph and Bilingual Text2Cypher Benchmark for Crop Suitability
-> and Productivity in Bangladesh. In *Proceedings of the Third Workshop on
-> Knowledge Graphs and Agentic Systems Interplay (NORA 2026)*, AACL-IJCNLP
-> 2026. Department of Computer Science & Engineering, Rajshahi University
-> of Engineering & Technology (RUET).
+> Md. Aukerul Moin Shuvo and Md Nazrul Islam Mondal. 2026.
+> [BD-AgriKG: A Knowledge Graph and Bilingual Text2Cypher Benchmark for
+> Crop Suitability and Productivity in Bangladesh](https://aclanthology.org/2026.nora-1.6/).
+> In *Proceedings of the 3rd Workshop on KNOwledge GRaphs Agentic Systems
+> Interplay (NORA 2026)*, pages 63-76, Hengqin, China. Association for
+> Computational Linguistics.
+
+The BibTeX entry is under [Citation](#citation). The benchmark and the
+graph tables are also on Hugging Face:
+[aukerul-shuvo/BD-AgriKG](https://huggingface.co/datasets/aukerul-shuvo/BD-AgriKG).
 
 The graph joins five public government sources on one administrative spine
 keyed by OCHA COD-AB place codes (8 divisions, 64 districts, 507 upazilas):
@@ -85,6 +89,32 @@ Code is released under the MIT License (`LICENSE`). The derived data
 (`LICENSE-DATA.md`). The underlying sources are public publications of
 the Government of Bangladesh (BBS, BARC, BAMIS, SRDI) and OCHA COD-AB
 (CC BY-IGO); the yearbook PDFs are not redistributed here.
+
+## Citation
+
+If you use the graph, the production panel or the benchmark, please cite
+the paper:
+
+```bibtex
+@inproceedings{shuvo-mondal-2026-bd,
+    title = "{BD}-{A}gri{KG}: A Knowledge Graph and Bilingual {T}ext2{C}ypher Benchmark for Crop Suitability and Productivity in {B}angladesh",
+    author = "Shuvo, Md. Aukerul Moin  and
+      Mondal, Md Nazrul Islam",
+    editor = "Er-Rahmadi, Btissam  and
+      Montella, S{\'e}bastien  and
+      Graux, Damien  and
+      Melo, Andr{\'e}  and
+      Jabeen, Hajira",
+    booktitle = "Proceedings of the 3rd Workshop on {KNO}wledge {GR}aphs Agentic Systems Interplay ({NORA} 2026)",
+    month = nov,
+    year = "2026",
+    address = "Hengqin, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.nora-1.6/",
+    pages = "63--76",
+    ISBN = "979-8-89176-457-6"
+}
+```
 
 ## Contact
 
